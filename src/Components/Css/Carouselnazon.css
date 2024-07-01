@@ -1,0 +1,18 @@
+.w-100 {
+    width: 100% !important;
+    height: 800px;
+}
+
+
+.carousel-item h3 {
+    font-size: 52px;
+    color: yellow;
+    font-family: fantasy;
+}
+
+.carousel-caption p {
+    font-size: 25px;
+    color:yellow;
+    font-weight: bold;
+    font-family: system-ui;
+}

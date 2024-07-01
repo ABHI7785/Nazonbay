@@ -1,0 +1,44 @@
+.about-container {
+    padding: 20px;
+  }
+  
+  .about-image {
+    margin-bottom: 20px;
+  }
+  
+  .about-image img {
+    width: 95%;
+    height: 622px;
+    border-radius: 20px;
+    margin-top: 84px;
+}
+  
+  .about-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  
+  
+  .about-details p {
+    font-size: 16px;
+    font-family: cursive;
+    color: aliceblue;
+}
+
+.about_sec h2 {
+    text-align: center;
+    font-size: 35px;
+    font-family: sans-serif;
+    font-weight: 500;
+    margin-top: 23px;
+    margin-bottom: 15px;
+    color: cyan;
+    padding-top: 31px;
+}
+  
+.about_sec {
+    background: cornflowerblue;
+    margin-top: -24px;
+}
